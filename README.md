@@ -24,7 +24,7 @@ Before we can ask high-level questions that connect figure content to spatial co
 
 This repo contains a set of ground truth data points that will facilitate the evaluaton of current LLMs on the figure georeferencing task.  Specifically, for each data point, we provide:
 
-* A PDF file of an ecology paper, along with a link to the original paper,
+* A PDF file of an ecology paper, along with a link to the original paper
 * An image of a figure that has been extracted from that PDF file
 * A .geojson file containing the true extent of that figure in spatial coordinates
 
