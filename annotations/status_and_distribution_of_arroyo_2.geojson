@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "status_and_distribution_of_arroyo_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -118.902261103408193, 34.535786181419894 ], [ -116.477532522013917, 34.493746660764444 ], [ -116.543858606302436, 33.104237076294318 ], [ -118.909914113133823, 33.145897137215897 ], [ -118.902261103408193, 34.535786181419894 ] ] ] ] } }
+]
+}

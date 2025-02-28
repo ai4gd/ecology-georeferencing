@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "comparison_of_endoparasite_abundance_and_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -124.118205755374191, 41.479133060809879 ], [ -123.963630902687242, 41.482835912701184 ], [ -123.962514838768953, 41.308213923360135 ], [ -124.120039288954302, 41.311088213776159 ], [ -124.118205755374191, 41.479133060809879 ] ] ] ] } }
+]
+}

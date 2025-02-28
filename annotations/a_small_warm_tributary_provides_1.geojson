@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "a_small_warm_tributary_provides_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -110.728134229234655, 41.760582109237667 ], [ -107.090403606330483, 41.657744274928746 ], [ -107.238361794358823, 38.039872002623511 ], [ -110.784256300555782, 38.039872002623511 ], [ -110.728134229234655, 41.760582109237667 ] ] ] ] } }
+]
+}

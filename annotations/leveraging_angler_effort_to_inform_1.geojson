@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "leveraging_angler_effort_to_inform_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -122.595236890266847, 37.298854927953919 ], [ -122.595236890266847, 38.490563066674433 ], [ -121.258511191528754, 38.490563066674433 ], [ -121.258511191528754, 37.298854927953919 ], [ -122.595236890266847, 37.298854927953919 ] ] ] ] } }
+]
+}

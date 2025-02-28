@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "recovering_the_lost_potential_of_5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -119.400721970957292, 37.410931039126872 ], [ -119.388684424409689, 37.410954784341449 ], [ -119.389083018666255, 37.404543303068905 ], [ -119.400741900670113, 37.404559134562561 ], [ -119.400721970957292, 37.410931039126872 ] ] ] ] } }
+]
+}

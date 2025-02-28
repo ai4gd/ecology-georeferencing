@@ -1,0 +1,10 @@
+pandas
+numpy
+Pillow
+geopandas
+contextily
+xyzservices
+matplotlib
+pyproj
+notebook
+

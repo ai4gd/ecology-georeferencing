@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hawaiian_hoary_bat_lasiurus_cinereus_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -156.412538203048427, 20.573358790966541 ], [ -156.412538203048427, 20.686398675806522 ], [ -156.301696342972377, 20.686398675806522 ], [ -156.301696342972377, 20.573358790966541 ], [ -156.412538203048427, 20.573358790966541 ] ] ] ] } }
+]
+}

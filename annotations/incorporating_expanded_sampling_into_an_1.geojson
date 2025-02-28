@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "incorporating_expanded_sampling_into_an_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -122.457716448347256, 38.618558848413826 ], [ -121.245989908460643, 38.64546126710291 ], [ -121.23578589549318, 37.76143974233279 ], [ -122.47557347104032, 37.756397720999566 ], [ -122.457716448347256, 38.618558848413826 ] ] ] ] } }
+]
+}

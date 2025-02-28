@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "testing_a_singlevisit_sampling_approach_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -122.970433663949578, 39.468286201199788 ], [ -122.921087694989708, 39.463793557112936 ], [ -122.914471030331143, 39.394582538853022 ], [ -122.97593426468984, 39.39439771995746 ], [ -122.970433663949578, 39.468286201199788 ] ] ] ] } }
+]
+}

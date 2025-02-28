@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "population_and_spatial_dynamics_of_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -114.163975821075823, 35.528034526229561 ], [ -114.163975821075823, 36.98742898178957 ], [ -111.348505017565842, 36.98742898178957 ], [ -111.348505017565842, 35.528034526229561 ], [ -114.163975821075823, 35.528034526229561 ] ] ] ] } }
+]
+}

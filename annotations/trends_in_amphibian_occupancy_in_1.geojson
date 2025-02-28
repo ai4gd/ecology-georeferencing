@@ -1,0 +1,45 @@
+{
+   "type":"FeatureCollection",
+   "name":"trends_in_amphibian_occupancy_in_1",
+   "crs":{
+      "type":"name",
+      "properties":{
+         "name":"urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            
+         },
+         "geometry":{
+            "type":"Polygon",
+            "coordinates":[
+               [
+                  [
+                     -125.4267786071,
+                     21.6366918446
+                  ],
+                  [
+                     -65.4266641662,
+                     21.6366918446
+                  ],
+                  [
+                     -65.4266641662,
+                     52.1482411842
+                  ],
+                  [
+                     -125.4267786071,
+                     52.1482411842
+                  ],
+                  [
+                     -125.4267786071,
+                     21.6366918446
+                  ]
+               ]
+            ]
+         }
+      }
+   ]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "validating_a_nonlethal_method_of_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -121.816572037589353, 42.381673172741095 ], [ -121.816572037589353, 42.385828178810563 ], [ -121.811011647710629, 42.385828178810563 ], [ -121.811011647710629, 42.381673172741095 ], [ -121.816572037589353, 42.381673172741095 ] ] ] ] } }
+]
+}

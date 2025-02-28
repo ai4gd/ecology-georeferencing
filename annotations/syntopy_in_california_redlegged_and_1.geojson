@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "syntopy_in_california_redlegged_and_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -124.436622777212989, 30.095433529119195 ], [ -124.436622777212989, 42.05062194222765 ], [ -114.222405796777451, 42.05062194222765 ], [ -114.222405796777451, 30.095433529119195 ], [ -124.436622777212989, 30.095433529119195 ] ] ] ] } }
+]
+}

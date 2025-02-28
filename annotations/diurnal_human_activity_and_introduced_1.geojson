@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "diurnal_human_activity_and_introduced_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -73.152674389169661, -37.881627780582036 ], [ -73.152674389169661, -37.523657648365045 ], [ -72.743519976170006, -37.523657648365045 ], [ -72.743519976170006, -37.881627780582036 ], [ -73.152674389169661, -37.881627780582036 ] ] ] ] } }
+]
+}

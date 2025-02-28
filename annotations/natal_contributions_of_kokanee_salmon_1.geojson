@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "natal_contributions_of_kokanee_salmon_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -109.802633242541333, 40.875621173821521 ], [ -109.70952162421321, 41.556833601218962 ], [ -109.388095215738005, 41.618843424647167 ], [ -109.227382011500424, 40.902620197858333 ], [ -109.802633242541333, 40.875621173821521 ] ] ] ] } }
+]
+}

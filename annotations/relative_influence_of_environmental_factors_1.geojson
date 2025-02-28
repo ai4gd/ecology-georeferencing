@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "relative_influence_of_environmental_factors_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 146.216393329683143, -16.864496060530506 ], [ 146.216393329683143, -16.828353363863918 ], [ 146.242204804683041, -16.828353363863918 ], [ 146.242204804683041, -16.864496060530506 ], [ 146.216393329683143, -16.864496060530506 ] ] ] ] } }
+]
+}
