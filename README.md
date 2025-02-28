@@ -4,11 +4,11 @@
 
 ## What's the big picture?
 
-Ecologists all over the world deploy sensors and make “boots on the ground” observations to answer critical questions about ecosystems: What species are where? How are wildlife populations impacted by human activity and climate change?  The primary output of this massive global effort is not structured data, but rather written reports: academic papers, environmental impact assessments, and commissioned reports.  The information in those reports often eventually makes its way into policy, e.g. into decisions about CITES/ESA/IUCN species listings, but only with tremendous amounts of effort by human experts to distill information from numerous written sources.  And just as often, reports are as far as information from a wildlife survey will percolate: if the next link on the policy chain doesn’t discover a publication, or if that publication gets buried in a stack of hundreds, information can easily be “lost in plain sight”.
+Ecologists all over the world deploy sensors and make “boots on the ground” observations to answer critical questions about ecosystems: What species are where? How are wildlife populations impacted by human activity and climate change?  The primary output of this massive global effort is not structured data, but rather written reports: academic papers, environmental impact assessments, and commissioned reports.  The information in those reports often eventually makes its way into policy, e.g., into decisions about CITES/ESA/IUCN species listings, but only with tremendous amounts of effort by human experts to distill information from numerous written sources.  And just as often, reports are as far as information from a wildlife survey will percolate: if the next link on the policy chain doesn’t discover a publication, or if that publication gets buried in a stack of hundreds, information can easily be “lost in plain sight”.
 
 Furthermore, the few structured databases that exist to capture wildlife population information lack much of the nuance that was present when information was captured in the field: [GBIF](https://gbif.org), for example, is the largest repository of species occurrence records, but most observations stored in GBIF only report that species S was seen at around time T and near location X/Y; information about survey methodology and survey effort - critical to making inferences about what that observation means - is often lost, making it challenging to infer population sizes or trends from most structured data sources.
 
-But all of that information isn’t really lost, it’s just too cumbersome for humans to digest from the original sources.  A quick Google Scholar search for virtually any taxa (e.g. [turtles](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=turtle+population+survey&btnG=), [wolverines](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=wolverine+population+survey&btnG=)) will yield tens of thousands of papers, each applying one or more methodologies to estimate the population of one or more species in a region.  Combined, those papers provide comprehensive insight about species and ecosystems, but extracting and summarizing that information requires not only reading thousands of pages of text, but also referencing non-standardized maps of study areas and survey designs, typically locked in figures like this one:
+But all of that information isn’t really lost, it’s just too cumbersome for humans to digest from the original sources.  A quick Google Scholar search for virtually any taxa (e.g., [turtles](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=turtle+population+survey&btnG=), [wolverines](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=wolverine+population+survey&btnG=)) will yield tens of thousands of papers, each applying one or more methodologies to estimate the population of one or more species in a region.  Combined, those papers provide comprehensive insight about species and ecosystems, but extracting and summarizing that information requires not only reading thousands of pages of text, but also referencing non-standardized maps of study areas and survey designs, typically locked in figures like this one:
 
 ![](sample_image.png)
 
@@ -22,7 +22,7 @@ Before we can ask high-level questions that connect figure content to spatial co
 
 ## What's in this repo?
 
-This repo contains a set of ground truth data points that will facilitate the evaluaton of current LLMs on the figure georeferencing task.  Specifically, for each data point, we provide:
+This repo contains a set of ground truth data points that will facilitate the evaluation of current LLMs on the figure georeferencing task.  Specifically, for each data point, we provide:
 
 * A PDF file of an ecology paper, along with a link to the original paper
 * An image of a figure that has been extracted from that PDF file
@@ -38,7 +38,7 @@ There is some nuance to defining the georeferenced area.  In general, we tried t
 Specifically, the "georeferencing" folder contains:
 
 * "index.csv": a .csv file in which each row corresponds to one data point, with the following columns:
-  * <i>record_id</i>: a unique ID that will be used to refer to files associated with this data point, based on the paper title, e.g. "distribution_abundance_and_breeding_activities"
+  * <i>record_id</i>: a unique ID that will be used to refer to files associated with this data point, based on the paper title, e.g., "distribution_abundance_and_breeding_activities"
   * <i>paper_title</i>: the title of the paper on which this data point is based
   * <i>figure_number</i>: the figure number that was georeferenced
   * <i>paper_link</i>: a link to the original paper
