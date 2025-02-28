@@ -41,7 +41,7 @@ This dataset is intended to benchmark LLM-based georeferencing of maps, i.e., th
 **Access:**
 
 * **Access Type:** External - Open Access
-* **Documentation Link(s):** [public URL not available yet]
+* **Documentation Link(s):** https://github.com/google-research/ecology-georeferencing 
 * **Policy Link(s):** LICENSE file in the repo (specifies Apache 2.0 license) for code
 
 ## Provenance
